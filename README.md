@@ -25,3 +25,4 @@ ROOT CAUSE: I forgot to check it
 ```
 
 ## How to install
+To install you have to copy the repository, then create an alias for command: `java <path to repo>/FiveQuestions.java`. Java version for this command should be 11 or above. Also, it's depends from where do you going to run the alias. There should be Console provider.
